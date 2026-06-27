@@ -1,2 +1,41 @@
-# 23631d76-catering-food-service-custom
-Your catering business loses 30-40% of customers annually, but you're flying blind on who's about to leave. The Catering &amp; Food Service Customer Churn Prediction and Re-engagement N8N Workflow identifies at-risk clients before they disappear and automates personalized win-back campaigns—no coding required.  This ready-to-deploy N8N workflow integra
+# Catering & Food Service Customer Churn Prediction and Re-engagement N8N Workflow
+
+> Workflow for Catering
+
+Your catering business loses 30-40% of customers annually, but you're flying blind on who's about to leave. The Catering & Food Service Customer Churn Prediction and Re-engagement N8N Workflow identifies at-risk clients before they disappear and automates personalized win-back campaigns—no coding required.
+
+This ready-to-deploy N8N workflow...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | ✅ | ✅ |
+| Standard nodes | ✅ | ✅ |
+| Manual execution | ✅ | ✅ |
+| Advanced triggers | ❌ | ✅ |
+| Custom nodes | ❌ | ✅ |
+| Scheduled execution | ❌ | ✅ |
+| Error handling | ❌ | ✅ |
+| Webhook integrations | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/aFaeVd8v5e2Me006fycZt1M)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
